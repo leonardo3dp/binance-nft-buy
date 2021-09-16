@@ -1,4 +1,4 @@
-module github.com/1makarov/binance-nft-buy
+module github.com/leonardo3dp/binance-nft-buy
 
 go 1.16
 
