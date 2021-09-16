@@ -1,8 +1,8 @@
 package account
 
 import (
-	"github.com/1makarov/binance-nft-buy/internal/domain/account"
-	bapi "github.com/1makarov/binance-nft-buy/pkg/binance-api"
+	"github.com/leonardo3dp/binance-nft-buy/internal/domain/account"
+	bapi "github.com/leonardo3dp/binance-nft-buy/pkg/binance-api"
 )
 
 type Account struct {
