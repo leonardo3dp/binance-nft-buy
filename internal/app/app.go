@@ -2,9 +2,9 @@ package app
 
 import (
 	"fmt"
-	"github.com/1makarov/binance-nft-buy/internal/pkg/account"
-	"github.com/1makarov/binance-nft-buy/internal/pkg/mysterybox"
-	bapi "github.com/1makarov/binance-nft-buy/pkg/binance-api"
+	"github.com/leonardo3dp/binance-nft-buy/internal/pkg/account"
+	"github.com/leonardo3dp/binance-nft-buy/internal/pkg/mysterybox"
+	bapi "github.com/leonardo3dp/binance-nft-buy/pkg/binance-api"
 	"log"
 	"time"
 )
